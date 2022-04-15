@@ -1,0 +1,94 @@
+.background1 {
+    background-color: beige;
+}
+.background2 {
+    background-color: lightblue;
+}
+  
+header.masthead {
+    position: relative;
+    margin-bottom: 3rem;
+    padding-top: calc(8rem + 57px);
+    padding-bottom: 8rem;
+    background: no-repeat center center;
+    background-image: url(../assets/images/mountains.jpg);
+    background-size: cover;
+    background-attachment: scroll;
+}
+p {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.subtitle {
+    font-weight: 700;
+    font-size: x-large;
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font: white;
+}
+h3 {
+    font: bold;
+    font-family:'Times New Roman', Times, serif;
+}
+p {
+    font-family: Arial, Helvetica, sans-serif;
+}
+.background3 {
+    background-color: beige;
+}
+.tmenu {
+    font-family: 'Times New Roman', Times, serif;
+    font: small-caps;
+    align-items: flex-end;
+}
+.header2 {
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 100px;
+    z-index: 2;
+    background-color: gray;
+    background-image: url(../assets/images/stars.jpeg);
+    background-position: left;
+    background-repeat: round;
+    text-align: center;
+    text-justify: center;
+}
+.rightMenu {
+    top: 114px;
+    right: 5px;
+    width: 100px;
+    bottom: 64px;
+}
+.leftMenu {
+    top: 114px;
+    left: 5px;
+    bottom: 64px;
+    padding: 50px;
+    font: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+    font-weight: 800;
+}
+.mainBody {
+    top: 114px;
+    left: 150px;
+    right: 150px;
+    padding: 100px;
+    bottom: 64px;
+}
+.tText {
+    font: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+    text-align: center;
+}
+.footerText {
+    bottom: 50px;
+    height: 50px;
+    left: 5px;
+    right: 5px;
+    text-align: center;
+    color: black;
+    font-size: large;
+    text-justify: center;
+}
